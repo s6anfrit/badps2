@@ -1,6 +1,6 @@
 badps2
 ======
 
-Implementation of bachelor thesis
+Implementation of bachelor thesis:
 
 "Aufnahme und Wiedergabe von Tastatur-Eingabesequenzen mittels Arduino Mikrocontroller"
